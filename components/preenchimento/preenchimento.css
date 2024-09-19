@@ -152,8 +152,8 @@ body {
 
 textarea {
     border: 1px solid black;
-    padding-bottom: 32px;
     resize: none;
+    padding: 6px;
 }
 
 #detalhes, #observacoes {
